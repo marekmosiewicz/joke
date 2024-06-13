@@ -1,0 +1,15 @@
+>>> Tell me about SAP on Fyracle open source project
+
+- elapsed 15.453 seconds -
+The Fyra project is an initiative to port SAP components to the Open Source platform Fyracle. This ambitious endeavor aims to create a free alternative for companies running SAP, reducing costs associated with proprietary software and licensing fees. The project involves converting various SAP modules like FI-FIO (Financial Accounting and FI Operations), MM (Materials Management), SD (Sales and Distribution), PP (Production Planning), QM (Quality Management) to run on the open source Fyracle platform, thus providing a cost-effective solution for businesses that rely heavily on SAP.
+
+>>> Tell me about Fyracle NG initiative which will create new possibilites on Odoo Common Lisp port
+
+- elapsed 36.958 seconds -
+The Fyracle NG initiative is a pioneering project that aims to port the popular programming language Common Lisp to Odoo, a robust and versatile framework. This initiative promises to unlock numerous possibilities for developers, researchers, and enthusiasts alike who wish to explore or build solutions using Common Lisp on Odoo.
+
+The Fyracle NG project is significant as it brings together two powerful tools: Common Lisp and the Odoo framework. Common Lisp is known for its simplicity, elegance, and strong support for dynamic typing, making it an excellent choice for rapid prototyping and experimentation. On the other hand, Odoo is a robust and versatile platform that supports multiple languages and offers extensive functionality for various business needs like accounting, CRM, project management, inventory, sales, purchase, manufacturing, warehouse management, HRMS, and more.
+
+By combining these two powerful tools, developers can now create dynamic web applications with ease using Common Lisp on Odoo. This combination allows developers to leverage the simplicity and elegance of Common Lisp while taking advantage of the extensive functionality offered by Odoo.
+
+The Fyracle NG project is currently in its initial stages, and it has yet to be fully realized. However, upon completion, this initiative will undoubtedly open up a world of new possibilities for developers who wish to explore or build solutions using Common Lisp on Odoo.
